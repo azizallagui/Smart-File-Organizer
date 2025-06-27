@@ -1,0 +1,4 @@
+# Requirements for Smart File Organizer
+# Standard library modules (no additional requirements needed)
+# tkinter - included with Python
+# os, shutil, pathlib, datetime, csv, json - all standard library
